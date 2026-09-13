@@ -1,0 +1,1 @@
+{"snapshot":"2026-09-01","sample_size":30000,"seed":22102,"score_version":"filing-review-v1","accounts_weight":60,"confirmation_weight":40,"accounts_cap_days":180,"confirmation_cap_days":90,"watch_threshold":40,"high_threshold":70,"minimum_benchmark_n":100}
