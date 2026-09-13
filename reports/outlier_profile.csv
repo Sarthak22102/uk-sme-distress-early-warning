@@ -1,0 +1,6 @@
+field,observed_n,missing_n,min,median,p95,p99,max,treatment
+age_years,30000,0,0.7638603696098563,7.482546201232033,26.92210814510608,46.87545516769325,142.48870636550308,Retained; contextual outlier is not automatically erroneous
+charge_count,30000,0,0.0,0.0,2.0,8.0,183.0,Retained; contextual outlier is not automatically erroneous
+outstanding_charges,30000,0,0.0,0.0,2.0,5.0,50.0,Retained; contextual outlier is not automatically erroneous
+accounts_overdue_days,30000,0,0.0,0.0,730.0,1974.049999999992,14429.0,Retained; contextual outlier is not automatically erroneous
+confirmation_overdue_days,29991,9,0.0,0.0,726.0,1920.199999999997,3700.0,Retained; contextual outlier is not automatically erroneous

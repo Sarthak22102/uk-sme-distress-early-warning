@@ -1,0 +1,102 @@
+{
+  "snapshot_label": "2026-09-01",
+  "reference_date": "2026-08-31",
+  "retrieved_at": "2026-09-12T09:29:45.060486+00:00",
+  "index_url": "https://download.companieshouse.gov.uk/en_output.html",
+  "files": [
+    {
+      "name": "BasicCompanyData-2026-09-01-part1_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part1_7.zip",
+      "bytes": 73152561,
+      "sha256": "4e6a7d930a709f7bdf51c0a4d83488a214c3bf588fc0350863da3ac08017956b"
+    },
+    {
+      "name": "BasicCompanyData-2026-09-01-part2_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part2_7.zip",
+      "bytes": 73733013,
+      "sha256": "77b7be17c4e3bd8cb6cb5722b15146e84b4fabf878ff65aead53abdb2d150802"
+    },
+    {
+      "name": "BasicCompanyData-2026-09-01-part3_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part3_7.zip",
+      "bytes": 73592405,
+      "sha256": "ecfc7ea4e508ff03ea7434651a15c7b12595a8dd22807e0b426031ddbadf5c44"
+    },
+    {
+      "name": "BasicCompanyData-2026-09-01-part4_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part4_7.zip",
+      "bytes": 73763620,
+      "sha256": "88408c309527bcddd8006b19d180c48df51b9df6d95da7d99ef3e26cc8376168"
+    },
+    {
+      "name": "BasicCompanyData-2026-09-01-part5_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part5_7.zip",
+      "bytes": 73524421,
+      "sha256": "e7036f8531df6180ef0fac3c214425be31649ee67ee0343ddb281a3082818a9c"
+    },
+    {
+      "name": "BasicCompanyData-2026-09-01-part6_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part6_7.zip",
+      "bytes": 73582620,
+      "sha256": "d26c4ab6f2696d51b2d62abe122a8b7549238ab398c3732a5023831d801777d6"
+    },
+    {
+      "name": "BasicCompanyData-2026-09-01-part7_7.zip",
+      "url": "https://download.companieshouse.gov.uk/BasicCompanyData-2026-09-01-part7_7.zip",
+      "bytes": 51212754,
+      "sha256": "4caff219d74c0c0d6cfbe5f3d74aa4d984981ddd9cee6da3e72285fdff782ad5"
+    }
+  ],
+  "source_rows": 5689368,
+  "malformed_rows": 2,
+  "malformed_fingerprints": [
+    "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "2562154b19cf3c0e6d2ee67b43578d7fd29e65066b85a159a0eb62077aa6f7c6"
+  ],
+  "rows_scanned": 5689366,
+  "eligible_rows": 1875337,
+  "categories": {
+    "MICRO ENTITY": 1858859,
+    "DORMANT": 632362,
+    "TOTAL EXEMPTION FULL": 1337628,
+    "NO ACCOUNTS FILED": 1457059,
+    "UNAUDITED ABRIDGED": 165274,
+    "FULL": 86837,
+    "SMALL": 68164,
+    "AUDIT EXEMPTION SUBSIDIARY": 34159,
+    "TOTAL EXEMPTION SMALL": 8904,
+    "GROUP": 28258,
+    "ACCOUNTS TYPE NOT AVAILABLE": 3793,
+    "MEDIUM": 6378,
+    "AUDITED ABRIDGED": 1149,
+    "FILING EXEMPTION SUBSIDIARY": 511,
+    "INITIAL": 3,
+    "PARTIAL EXEMPTION": 28
+  },
+  "statuses": {
+    "Active": 5171599,
+    "Active - Proposal to Strike off": 401947,
+    "Liquidation": 108494,
+    "In Administration": 3742,
+    "Live but Receiver Manager on at least one charge": 2137,
+    "In Administration/Administrative Receiver": 395,
+    "Voluntary Arrangement": 577,
+    "ADMINISTRATION ORDER": 121,
+    "RECEIVERSHIP": 182,
+    "ADMINISTRATIVE RECEIVER": 104,
+    "RECEIVER MANAGER / ADMINISTRATIVE RECEIVER": 10,
+    "In Administration/Receiver Manager": 55,
+    "VOLUNTARY ARRANGEMENT / ADMINISTRATIVE RECEIVER": 1,
+    "VOLUNTARY ARRANGEMENT / RECEIVER MANAGER": 2
+  },
+  "sample_size": 30000,
+  "seed": 22102,
+  "sample_method": "smallest SHA256(seed:company_number), all partitions",
+  "proxy_categories": [
+    "MICRO ENTITY",
+    "SMALL",
+    "MEDIUM",
+    "TOTAL EXEMPTION SMALL"
+  ],
+  "sample_sha256": "3563b0df74a110a3ad691e13b3171b486ebd5a309cf6d79c71fa1bb05d88f6bd"
+}

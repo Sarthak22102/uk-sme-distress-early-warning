@@ -1,0 +1,6 @@
+{
+  "risk_ratio": 10.0833,
+  "log_wald_lower": 8.51025104286965,
+  "log_wald_upper": 11.947113942682936,
+  "interpretation": "Cross-sectional confirmation-delay prevalence ratio; not financial distress or causation"
+}

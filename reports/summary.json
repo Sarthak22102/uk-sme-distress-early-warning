@@ -1,0 +1,55 @@
+{
+  "reference_date": "2026-08-31",
+  "source_rows": 5689368,
+  "malformed_rows": 2,
+  "eligible_population": 1875337,
+  "companies_analysed": 30000,
+  "scored_companies": 26785,
+  "not_scored": 3215,
+  "high_review": 66,
+  "elevated_review": 179,
+  "watch": 1005,
+  "no_flagged_deadline": 25535,
+  "mean_score": 1.0515344409184244,
+  "median_score": 0.0,
+  "accounts_overdue": 250,
+  "confirmation_overdue": 1095,
+  "both_overdue": 95,
+  "status_counts": {
+    "active": 26790,
+    "strike_off_proposal": 2531,
+    "liquidation_unspecified": 653,
+    "receivership": 17,
+    "administration": 6,
+    "voluntary_arrangement": 3
+  },
+  "top_sector": [
+    {
+      "sic_code": "59200",
+      "industry_label": "Sound recording and music publishing activities",
+      "companies": 111,
+      "scored_companies": 106,
+      "high_review": 2,
+      "elevated_review": 0,
+      "average_score": 2.3468867924528305,
+      "high_review_rate": 0.0188679245283018,
+      "eligible_rank": 1.0,
+      "wilson_lower": 0.00518960877959589,
+      "wilson_upper": 0.06619927211185671
+    }
+  ],
+  "top_postcode_area": [
+    {
+      "postcode_area": "LU",
+      "companies": 204,
+      "scored_companies": 184,
+      "high_review": 3,
+      "average_score": 2.777173913043478,
+      "high_review_rate": 0.0163043478260869,
+      "benchmark_status": "Benchmarkable",
+      "wilson_lower": 0.005560179056259714,
+      "wilson_upper": 0.0468321888612413
+    }
+  ],
+  "high_review_share": 0.0024640657084188913
+}

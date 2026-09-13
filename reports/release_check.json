@@ -1,0 +1,14 @@
+{
+  "decision": "Ready within validated bulk-analysis scope; native Power BI and live API remain unverified",
+  "tests_run": 40,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "local_markdown_links_checked": 15,
+  "source_files_scanned_for_secret_patterns": 58,
+  "tracked_files_checked": 72,
+  "git_history_blobs_scanned": 86,
+  "credential_scan": "No matching credential patterns; no real API key was provided",
+  "publication": "GitHub target: https://github.com/Sarthak22102/uk-sme-distress-early-warning",
+  "external_links": "Core official references verified during research; rotating downloads and target repository availability can change"
+}

@@ -1,0 +1,14 @@
+{
+  "foreign_keys": "pass",
+  "company_grain": "pass",
+  "sql_python_score_reconciliation": "pass",
+  "score_exclusions": "pass",
+  "score_range": "pass",
+  "band_assignment": "pass",
+  "geography_and_cohort_totals": "pass",
+  "sector_reconciliation": "pass",
+  "export_reconciliation": "pass",
+  "single_snapshot_no_change_claims": "pass",
+  "live_api": "not executed",
+  "native_power_bi": "build pack only; not runtime validated"
+}

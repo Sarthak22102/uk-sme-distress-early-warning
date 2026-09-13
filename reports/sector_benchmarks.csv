@@ -1,0 +1,605 @@
+sic_code,industry_label,companies,scored_companies,high_review,elevated_review,average_score,high_review_rate,eligible_rank,wilson_lower,wilson_upper
+Unknown,2751 - Casting of iron,132,12,12,0,100.0,1.0,,0.7575059933447693,1.0
+14131,Manufacture of other men's outerwear,8,8,1,1,16.2775,0.125,,0.02241749145005756,0.47088818221284356
+96030,Funeral and related activities,17,17,1,0,6.327058823529412,0.0588235294117647,,0.01046040098499798,0.2698203063757463
+32120,Manufacture of jewellery and related articles,20,18,1,0,6.129444444444444,0.0555555555555555,,0.009875190978303486,0.25757300781871845
+77320,Renting and leasing of construction and civil engineering machinery and equipment,23,19,1,0,5.2631578947368425,0.0526315789473684,,0.009351994062300709,0.2463873116689806
+85520,Cultural education,19,19,1,0,5.2631578947368425,0.0526315789473684,,0.009351994062300709,0.2463873116689806
+47730,Dispensing chemist in specialised stores,40,39,1,0,3.2023076923076923,0.0256410256410256,,0.004540703100990265,0.13180990169849627
+80100,Private security activities,94,78,2,3,4.578333333333333,0.0256410256410256,,0.007060093472759432,0.08875270035675588
+43310,Plastering,65,52,1,0,2.326923076923077,0.0192307692307692,,0.0034028080709452915,0.10120511127891893
+59200,Sound recording and music publishing activities,111,106,2,0,2.3468867924528305,0.0188679245283018,1.0,0.00518960877959589,0.06619927211185671
+82110,Combined office administrative service activities,62,54,1,0,2.0494444444444446,0.0185185185185185,,0.003276487718229186,0.0977143748878159
+55209,Other holiday and other collective accommodation,73,65,1,1,2.0153846153846158,0.0153846153846153,,0.002720944602023573,0.08213284729551182
+32990,Other manufacturing n.e.c.,100,91,1,1,1.8949450549450548,0.0109890109890109,,0.0019424713318492923,0.059649356686503986
+74990,Non-trading company,114,102,1,0,1.6079411764705882,0.0098039215686274,2.0,0.0017327343974217271,0.05345791476577559
+86101,Hospital activities,122,103,1,0,1.4670873786407768,0.0097087378640776,3.0,0.0017158914790502237,0.05295819183253493
+56302,Public houses and bars,180,142,1,3,2.881830985915493,0.0070422535211267,4.0,0.0012442142265478295,0.03880927171585314
+73110,Advertising agencies,167,145,1,1,0.9655172413793104,0.0068965517241379,5.0,0.0012184498705117286,0.03802773104559306
+68320,Management of real estate on a fee or contract basis,314,293,2,4,2.0929351535836176,0.0068259385665529,6.0,0.0018739188128636935,0.024542400699399988
+47190,Other retail sale in non-specialised stores,178,148,1,0,1.73722972972973,0.0067567567567567,7.0,0.001193730890406617,0.03727704557646043
+56103,Take-away food shops and mobile food stands,427,320,2,0,1.30896875,0.00625,8.0,0.001715652066836923,0.022498229779080805
+41201,Construction of commercial buildings,179,161,1,0,1.5624844720496895,0.0062111801242236,9.0,0.0010972685327610351,0.03433956187680209
+71129,Other engineering activities,186,162,1,3,1.870432098765432,0.0061728395061728,10.0,0.0010904900922821155,0.03413266135749883
+85590,Other education n.e.c.,181,171,1,1,1.4060818713450292,0.0058479532163742,11.0,0.0010330543138187542,0.03237697818130321
+41202,Construction of domestic buildings,424,360,2,3,1.658888888888889,0.0055555555555555,12.0,0.0015248581659241846,0.02002699809067216
+47990,"Other retail sale not in stores, stalls or markets",214,191,1,0,1.2280104712041886,0.0052356020942408,13.0,0.0009248109680105501,0.029055763269372953
+96020,Hairdressing and other beauty treatment,485,427,2,2,1.5735128805620608,0.0046838407494145,14.0,0.0012854192301036058,0.016914915626615335
+62020,Information technology consultancy activities,959,858,4,5,1.0714685314685315,0.0046620046620046,15.0,0.001814411322356515,0.011925306928024763
+43390,Other building completion and finishing,282,242,1,3,1.927438016528925,0.0041322314049586,16.0,0.0007298131132704097,0.023031267905022846
+96090,Other service activities n.e.c.,714,611,2,6,1.5761047463175122,0.0032733224222585,17.0,0.0008981225203476472,0.011855504789909446
+47910,Retail sale via mail order houses or via Internet,678,614,2,4,1.2596905537459284,0.003257328990228,18.0,0.0008937320633115942,0.011797968548138651
+70229,Management consultancy activities other than financial management,1459,1348,4,3,0.7199925816023739,0.0029673590504451,19.0,0.001154534547719722,0.007604968087318597
+69201,Accounting and auditing activities,365,344,1,0,0.4560465116279069,0.002906976744186,20.0,0.0005133372181277216,0.016280114719713537
+49410,Freight transport by road,453,347,1,5,1.7764553314121037,0.0028818443804034,21.0,0.0005088975622361096,0.016140955737112224
+74909,"Other professional, scientific and technical activities n.e.c.",428,388,1,1,0.7416752577319587,0.0025773195876288,22.0,0.0004551051629632149,0.01445260480288539
+68100,Buying and selling of own real estate,1330,1281,3,7,0.8734270101483216,0.0023419203747072,23.0,0.0007967769100770527,0.006862890944762412
+82990,Other business support service activities n.e.c.,1039,903,2,5,0.917906976744186,0.0022148394241417,24.0,0.0006075991345415675,0.008039401666338637
+68209,Other letting and operating of own or leased real estate,1519,1481,2,5,0.5580486158001351,0.0013504388926401,25.0,0.00037041720464222293,0.0049105902551857365
+01110,"Growing of cereals (except rice), leguminous crops and oil seeds",19,19,0,1,3.1578947368421053,0.0,,-1.3877787807814457e-17,0.16817922405260854
+01130,"Growing of vegetables and melons, roots and tubers",8,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+01190,Growing of other non-perennial crops,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+01210,Growing of grapes,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+01240,Growing of pome fruits and stone fruits,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+01280,"Growing of spices, aromatic, drug and pharmaceutical crops",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+01290,Growing of other perennial crops,3,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+01300,Plant propagation,5,4,0,0,5.1675,0.0,,0.0,0.48989083645458353
+01410,Raising of dairy cattle,5,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+01420,Raising of other cattle and buffaloes,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+01430,Raising of horses and other equines,21,20,0,0,0.0,0.0,,1.3877787807814457e-17,0.1611251580528119
+01440,Raising of camels and camelids,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+01450,Raising of sheep and  goats,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+01460,Raising of swine/pigs,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+01470,Raising of poultry,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+01490,Raising of other animals,16,14,0,1,4.285714285714286,0.0,,0.0,0.2153108027376265
+01500,Mixed farming,50,46,0,0,0.038695652173913,0.0,,0.0,0.07707356308557646
+01610,Support activities for crop production,15,14,0,0,0.0,0.0,,0.0,0.2153108027376265
+01621,Farm animal boarding and care,9,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+01629,Support activities for animal production (other than farm animal boarding and care) n.e.c.,11,11,0,0,0.1618181818181818,0.0,,0.0,0.25883296696802116
+01630,Post-harvest crop activities,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+01700,"Hunting, trapping and related service activities",4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+02100,Silviculture and other forestry activities,13,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+02200,Logging,4,3,0,0,0.0,0.0,,0.0,0.561497031755032
+02300,Gathering of wild growing non-wood products,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+02400,Support services to forestry,13,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+03110,Marine fishing,12,12,0,0,2.0,0.0,,0.0,0.24249400665523077
+03120,Freshwater fishing,5,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+03210,Marine aquaculture,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+03220,Freshwater aquaculture,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+06100,Extraction of crude petroleum,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+06200,Extraction of natural gas,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+07290,Mining of other non-ferrous metal ores,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+08110,"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+08990,Other mining and quarrying n.e.c.,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+09100,Support activities for petroleum and natural gas extraction,26,24,0,0,0.0,0.0,,0.0,0.13797620467497365
+10110,Processing and preserving of meat,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+10130,Production of meat and poultry meat products,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+10200,"Processing and preserving of fish, crustaceans and molluscs",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+10320,Manufacture of fruit and vegetable juice,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+10390,Other processing and preserving of fruit and vegetables,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+10410,Manufacture of oils and fats,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+10511,Liquid milk and cream production,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+10519,Manufacture of other milk products,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+10520,Manufacture of ice cream,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+10611,Grain milling,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+10710,Manufacture of bread; manufacture of fresh pastry goods and cakes,24,22,0,0,0.1213636363636363,0.0,,0.0,0.1486548746086139
+10720,Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes,4,4,0,0,3.6675,0.0,,0.0,0.48989083645458353
+10821,Manufacture of cocoa and chocolate confectionery,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+10822,Manufacture of sugar confectionery,5,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+10831,Tea processing,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+10832,Production of coffee and coffee substitutes,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+10840,Manufacture of condiments and seasonings,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+10850,Manufacture of prepared meals and dishes,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+10890,Manufacture of other food products n.e.c.,37,31,0,0,0.8458064516129032,0.0,,0.0,0.11025539546043056
+10910,Manufacture of prepared feeds for farm animals,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+10920,Manufacture of prepared pet foods,8,7,0,0,3.4285714285714284,0.0,,0.0,0.35433043506667483
+11010,"Distilling, rectifying and blending of spirits",10,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+11020,Manufacture of wine from grape,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+11030,Manufacture of cider and other fruit wines,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+11040,Manufacture of other non-distilled fermented beverages,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+11050,Manufacture of beer,7,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+11070,Manufacture of soft drinks; production of mineral waters and other bottled waters,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+13300,Finishing of textiles,9,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+13910,Manufacture of knitted and crocheted fabrics,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+13921,Manufacture of soft furnishings,7,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+13922,"manufacture of canvas goods, sacks, etc.",2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+13923,manufacture of household textiles,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+13960,Manufacture of other technical and industrial textiles,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+13990,Manufacture of other textiles n.e.c.,17,15,0,0,0.8593333333333334,0.0,,-1.3877787807814457e-17,0.20388330103583963
+14120,Manufacture of workwear,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+14132,Manufacture of other women's outerwear,9,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+14141,Manufacture of men's underwear,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+14142,Manufacture of women's underwear,5,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+14190,Manufacture of other wearing apparel and accessories n.e.c.,26,25,0,0,0.0,0.0,,0.0,0.13319225093904213
+15110,Tanning and dressing of leather; dressing and dyeing of fur,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+15120,"Manufacture of luggage, handbags and the like, saddlery and harness",5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+15200,Manufacture of footwear,3,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+16100,Sawmilling and planing of wood,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+16210,Manufacture of veneer sheets and wood-based panels,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+16230,Manufacture of other builders' carpentry and joinery,65,60,0,0,0.5630000000000001,0.0,,-6.938893903907228e-18,0.06017185214208674
+16240,Manufacture of wooden containers,4,3,0,0,0.0,0.0,,0.0,0.561497031755032
+16290,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",9,8,0,1,5.125,0.0,,0.0,0.3244075648838681
+17110,Manufacture of pulp,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+17120,Manufacture of paper and paperboard,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+17219,Manufacture of other paper and paperboard containers,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+17220,Manufacture of household and sanitary goods and of toilet requisites,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+17230,Manufacture of paper stationery,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+17290,Manufacture of other articles of paper and paperboard n.e.c.,3,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+18121,Manufacture of printed labels,5,3,0,0,0.0,0.0,,0.0,0.561497031755032
+18129,Printing n.e.c.,61,55,0,0,0.2443636363636363,0.0,,0.0,0.06528490111708299
+18130,Pre-press and pre-media services,7,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+18201,Reproduction of sound recording,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+18202,Reproduction of video recording,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+20140,Manufacture of other organic basic chemicals,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+20150,Manufacture of fertilizers and nitrogen compounds,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+20160,Manufacture of plastics in primary forms,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+20301,"Manufacture of paints, varnishes and similar coatings, mastics and sealants",2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+20411,Manufacture of soap and detergents,9,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+20412,Manufacture of cleaning and polishing preparations,10,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+20420,Manufacture of perfumes and toilet preparations,15,15,0,0,1.6293333333333335,0.0,,-1.3877787807814457e-17,0.20388330103583963
+21100,Manufacture of basic pharmaceutical products,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+21200,Manufacture of pharmaceutical preparations,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+22110,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+22190,Manufacture of other rubber products,4,3,0,0,0.0,0.0,,0.0,0.561497031755032
+22210,"Manufacture of plastic plates, sheets, tubes and profiles",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+22230,Manufacture of builders  ware of plastic,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+22290,Manufacture of other plastic products,12,12,0,0,0.0,0.0,,0.0,0.24249400665523077
+23120,Shaping and processing of flat glass,4,3,0,0,0.0,0.0,,0.0,0.561497031755032
+23190,"Manufacture and processing of other glass, including technical glassware",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+23410,Manufacture of ceramic household and ornamental articles,3,3,0,1,20.0,0.0,,0.0,0.561497031755032
+23420,Manufacture of ceramic sanitary fixtures,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+23610,Manufacture of concrete products for construction purposes,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+23630,Manufacture of ready-mixed concrete,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+23690,"Manufacture of other articles of concrete, plaster and cement",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+23700,"Cutting, shaping and finishing of stone",14,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+23990,Manufacture of other non-metallic mineral products n.e.c.,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+24100,Manufacture of basic iron and steel and of ferro-alloys,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+24200,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",6,4,0,0,3.555,0.0,,0.0,0.48989083645458353
+24340,Cold drawing of wire,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+24420,Aluminium production,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+24530,Casting of light metals,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+25110,Manufacture of metal structures and parts of structures,32,27,0,0,0.0,0.0,,0.0,0.12455502974186107
+25120,Manufacture of doors and windows of metal,6,6,0,0,2.7416666666666667,0.0,,0.0,0.39033428790215224
+25210,Manufacture of central heating radiators and boilers,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+25400,Manufacture of weapons and ammunition,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+25500,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+25610,Treatment and coating of metals,5,3,0,0,1.9266666666666667,0.0,,0.0,0.561497031755032
+25620,Machining,12,11,0,0,0.0,0.0,,0.0,0.25883296696802116
+25720,Manufacture of locks and hinges,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+25730,Manufacture of tools,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+25920,Manufacture of light metal packaging,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+25930,"Manufacture of wire products, chain and springs",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+25940,Manufacture of fasteners and screw machine products,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+25990,Manufacture of other fabricated metal products n.e.c.,43,34,0,0,1.738529411764706,0.0,,-6.938893903907228e-18,0.10151455415331875
+26110,Manufacture of electronic components,9,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+26120,Manufacture of loaded electronic boards,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+26200,Manufacture of computers and peripheral equipment,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+26309,"Manufacture of communication equipment other than telegraph, and telephone apparatus and equipment",3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+26400,Manufacture of consumer electronics,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+26511,"Manufacture of electronic measuring, testing etc. equipment, not for industrial process control",7,7,0,0,2.9200000000000004,0.0,,0.0,0.35433043506667483
+26512,Manufacture of electronic industrial process control equipment,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+26520,Manufacture of watches and clocks,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+26600,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+26701,Manufacture of optical precision instruments,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+26702,Manufacture of photographic and cinematographic equipment,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+27110,"Manufacture of electric motors, generators and transformers",2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+27120,Manufacture of electricity distribution and control apparatus,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+27200,Manufacture of batteries and accumulators,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+27320,Manufacture of other electronic and electric wires and cables,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+27330,Manufacture of wiring devices,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+27400,Manufacture of electric lighting equipment,2,2,0,0,12.78,0.0,,0.0,0.6576197724933345
+27900,Manufacture of other electrical equipment,8,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+28110,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",2,2,0,0,14.665,0.0,,0.0,0.6576197724933345
+28131,Manufacture of pumps,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+28132,Manufacture of compressors,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28140,Manufacture of taps and valves,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28210,"Manufacture of ovens, furnaces and furnace burners",2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+28220,Manufacture of lifting and handling equipment,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+28250,Manufacture of non-domestic cooling and ventilation equipment,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+28290,Manufacture of other general-purpose machinery n.e.c.,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28302,Manufacture of agricultural and forestry machinery other than tractors,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+28490,Manufacture of other machine tools,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+28921,Manufacture of machinery for mining,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28923,Manufacture of equipment for concrete crushing and screening and roadworks,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28930,"Manufacture of machinery for food, beverage and tobacco processing",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28940,"Manufacture of machinery for textile, apparel and leather production",1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28960,Manufacture of plastics and rubber machinery,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+28990,Manufacture of other special-purpose machinery n.e.c.,16,12,0,0,0.0,0.0,,0.0,0.24249400665523077
+29100,Manufacture of motor vehicles,4,4,0,0,2.5825,0.0,,0.0,0.48989083645458353
+29201,Manufacture of bodies (coachwork) for motor vehicles (except caravans),7,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+29310,Manufacture of electrical and electronic equipment for motor vehicles and their engines,5,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+29320,Manufacture of other parts and accessories for motor vehicles,10,9,0,0,0.2466666666666667,0.0,,0.0,0.2991450484195325
+30120,Building of pleasure and sporting boats,7,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+30200,Manufacture of railway locomotives and rolling stock,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+30300,Manufacture of air and spacecraft and related machinery,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+30910,Manufacture of motorcycles,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+30920,Manufacture of bicycles and invalid carriages,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+30990,Manufacture of other transport equipment n.e.c.,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+31010,Manufacture of office and shop furniture,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+31020,Manufacture of kitchen furniture,14,11,0,1,5.818181818181818,0.0,,0.0,0.25883296696802116
+31030,Manufacture of mattresses,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+31090,Manufacture of other furniture,23,19,0,0,0.0231578947368421,0.0,,-1.3877787807814457e-17,0.16817922405260854
+32130,Manufacture of imitation jewellery and related articles,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+32200,Manufacture of musical instruments,3,3,0,1,13.333333333333334,0.0,,0.0,0.561497031755032
+32300,Manufacture of sports goods,9,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+32401,Manufacture of professional and arcade games and toys,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+32409,"Manufacture of other games and toys, n.e.c.",9,9,0,0,2.2711111111111117,0.0,,0.0,0.2991450484195325
+32500,Manufacture of medical and dental instruments and supplies,15,14,0,0,0.0,0.0,,0.0,0.2153108027376265
+33110,Repair of fabricated metal products,9,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+33120,Repair of machinery,33,28,0,0,0.365,0.0,,0.0,0.1206433047658398
+33130,Repair of electronic and optical equipment,9,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+33140,Repair of electrical equipment,45,42,0,0,0.0,0.0,,0.0,0.08379879086569969
+33150,Repair and maintenance of ships and boats,19,16,0,2,6.86125,0.0,,0.0,0.1936076805344279
+33160,Repair and maintenance of aircraft and spacecraft,16,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+33170,Repair and maintenance of other transport equipment n.e.c.,24,20,0,0,0.0,0.0,,1.3877787807814457e-17,0.1611251580528119
+33190,Repair of other equipment,55,48,0,1,2.398125,0.0,,0.0,0.07410012966611372
+33200,Installation of industrial machinery and equipment,29,25,0,0,0.1776,0.0,,0.0,0.13319225093904213
+35110,Production of electricity,49,47,0,0,0.2931914893617021,0.0,,-6.938893903907228e-18,0.07555760416399246
+35120,Transmission of electricity,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+35130,Distribution of electricity,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+35140,Trade of electricity,15,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+35210,Manufacture of gas,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+35220,Distribution of gaseous fuels through mains,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+35230,Trade of gas through mains,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+35300,Steam and air conditioning supply,9,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+36000,"Water collection, treatment and supply",7,7,0,1,9.651428571428571,0.0,,0.0,0.35433043506667483
+37000,Sewerage,12,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+38110,Collection of non-hazardous waste,33,31,0,1,1.3477419354838711,0.0,,0.0,0.11025539546043056
+38210,Treatment and disposal of non-hazardous waste,8,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+38220,Treatment and disposal of hazardous waste,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+38310,Dismantling of wrecks,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+38320,Recovery of sorted materials,9,8,0,1,7.5,0.0,,0.0,0.3244075648838681
+39000,Remediation activities and other waste management services,19,15,0,0,0.2073333333333333,0.0,,-1.3877787807814457e-17,0.20388330103583963
+42110,Construction of roads and motorways,24,20,0,0,0.1555,0.0,,1.3877787807814457e-17,0.1611251580528119
+42120,Construction of railways and underground railways,16,10,0,0,1.156,0.0,,2.7755575615628914e-17,0.27753279986287815
+42130,Construction of bridges and tunnels,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+42210,Construction of utility projects for fluids,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+42220,Construction of utility projects for electricity and telecommunications,22,22,0,0,1.7372727272727273,0.0,,0.0,0.1486548746086139
+42910,Construction of water projects,5,4,0,0,2.5825,0.0,,0.0,0.48989083645458353
+42990,Construction of other civil engineering projects n.e.c.,97,75,0,0,0.6164000000000001,0.0,,0.0,0.0487238424828033
+43110,Demolition,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+43120,Site preparation,14,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+43130,Test drilling and boring,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+43330,Floor and wall covering,79,72,0,0,0.4569444444444444,0.0,,0.0,0.05065117259645515
+43341,Painting,77,66,0,0,1.7256060606060606,0.0,,0.0,0.055002557013538435
+43342,Glazing,42,36,0,0,0.7683333333333333,0.0,,0.0,0.09641862859445885
+43910,Roofing activities,78,72,0,1,1.1297222222222223,0.0,,0.0,0.05065117259645515
+43991,Scaffold erection,40,32,0,0,0.0,0.0,,0.0,0.10717919825506533
+45111,Sale of new cars and light motor vehicles,12,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+45190,Sale of other motor vehicles,35,30,0,1,3.755666666666667,0.0,,-1.3877787807814457e-17,0.11351339317396321
+45310,Wholesale trade of motor vehicle parts and accessories,28,26,0,0,1.2992307692307692,0.0,,0.0,0.12872892185920912
+45320,Retail trade of motor vehicle parts and accessories,58,52,0,0,0.6153846153846154,0.0,,0.0,0.06879223612385879
+45400,"Sale, maintenance and repair of motorcycles and related parts and accessories",14,13,0,1,5.0600000000000005,0.0,,0.0,0.22809537235418867
+46110,"Agents selling agricultural raw materials, livestock, textile raw materials and semi-finished goods",5,5,0,1,8.0,0.0,,5.551115123125783e-17,0.4344824647831612
+46120,"Agents involved in the sale of fuels, ores, metals and industrial chemicals",6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+46130,Agents involved in the sale of timber and building materials,15,10,0,0,0.044,0.0,,2.7755575615628914e-17,0.27753279986287815
+46140,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft",19,17,0,0,0.0,0.0,,0.0,0.18431813500884353
+46150,"Agents involved in the sale of furniture, household goods, hardware and ironmongery",16,12,0,0,0.37,0.0,,0.0,0.24249400665523077
+46160,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",30,26,0,1,3.7992307692307694,0.0,,0.0,0.12872892185920912
+46170,"Agents involved in the sale of food, beverages and tobacco",15,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+46180,Agents specialized in the sale of other particular products,52,46,0,0,0.145,0.0,,0.0,0.07707356308557646
+46190,Agents involved in the sale of a variety of goods,92,74,0,1,0.5405405405405406,0.0,,0.0,0.049349779396383485
+46210,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds",5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+46220,Wholesale of flowers and plants,9,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+46240,"Wholesale of hides, skins and leather",2,2,0,1,20.0,0.0,,0.0,0.6576197724933345
+46310,Wholesale of fruit and vegetables,22,19,0,0,0.7952631578947368,0.0,,-1.3877787807814457e-17,0.16817922405260854
+46320,Wholesale of meat and meat products,11,10,0,0,3.155,0.0,,2.7755575615628914e-17,0.27753279986287815
+46330,"Wholesale of dairy products, eggs and edible oils and fats",12,12,0,1,4.110833333333333,0.0,,0.0,0.24249400665523077
+46341,"Wholesale of fruit and vegetable juices, mineral water and soft drinks",9,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+46342,"Wholesale of wine, beer, spirits and other alcoholic beverages",27,25,0,0,0.0,0.0,,0.0,0.13319225093904213
+46350,Wholesale of tobacco products,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+46360,Wholesale of sugar and chocolate and sugar confectionery,9,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+46370,"Wholesale of coffee, tea, cocoa and spices",19,16,0,0,0.0,0.0,,0.0,0.1936076805344279
+46380,"Wholesale of other food, including fish, crustaceans and molluscs",12,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+46390,"Non-specialised wholesale of food, beverages and tobacco",19,15,0,0,0.0,0.0,,-1.3877787807814457e-17,0.20388330103583963
+46410,Wholesale of textiles,21,20,0,0,0.0,0.0,,1.3877787807814457e-17,0.1611251580528119
+46420,Wholesale of clothing and footwear,58,52,0,0,0.2157692307692307,0.0,,0.0,0.06879223612385879
+46431,"Wholesale of audio tapes, records, CDs and video tapes and the equipment on which these are played",3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+46439,"Wholesale of radio, television goods & electrical household appliances (other than records, tapes, CD's & video tapes and the equipment used for playing them)",9,9,0,1,4.444444444444445,0.0,,0.0,0.2991450484195325
+46440,Wholesale of china and glassware and cleaning materials,3,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+46450,Wholesale of perfume and cosmetics,32,27,0,1,1.4814814814814814,0.0,,0.0,0.12455502974186107
+46460,Wholesale of pharmaceutical goods,10,10,0,0,2.067,0.0,,2.7755575615628914e-17,0.27753279986287815
+46470,"Wholesale of furniture, carpets and lighting equipment",14,14,0,0,0.4764285714285714,0.0,,0.0,0.2153108027376265
+46480,Wholesale of watches and jewellery,11,11,0,1,6.393636363636364,0.0,,0.0,0.25883296696802116
+46491,Wholesale of musical instruments,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+46499,Wholesale of household goods (other than musical instruments) n.e.c.,27,24,0,0,1.3145833333333332,0.0,,0.0,0.13797620467497365
+46510,"Wholesale of computers, computer peripheral equipment and software",14,11,0,1,4.525454545454545,0.0,,0.0,0.25883296696802116
+46520,Wholesale of electronic and telecommunications equipment and parts,29,29,0,0,1.103448275862069,0.0,,0.0,0.11696979849973506
+46610,"Wholesale of agricultural machinery, equipment and supplies",3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+46620,Wholesale of machine tools,5,3,0,0,0.0,0.0,,0.0,0.561497031755032
+46650,Wholesale of office furniture,2,2,0,0,4.445,0.0,,0.0,0.6576197724933345
+46660,Wholesale of other office machinery and equipment,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+46690,Wholesale of other machinery and equipment,19,19,0,0,0.0,0.0,,-1.3877787807814457e-17,0.16817922405260854
+46711,Wholesale of petroleum and petroleum products,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+46719,Wholesale of other fuels and related products,3,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+46720,Wholesale of metals and metal ores,10,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+46730,"Wholesale of wood, construction materials and sanitary equipment",12,11,0,0,0.7272727272727273,0.0,,0.0,0.25883296696802116
+46740,"Wholesale of hardware, plumbing and heating equipment and supplies",12,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+46750,Wholesale of chemical products,9,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+46760,Wholesale of other intermediate products,13,11,0,0,0.0,0.0,,0.0,0.25883296696802116
+46770,Wholesale of waste and scrap,3,2,0,0,9.335,0.0,,0.0,0.6576197724933345
+47210,Retail sale of fruit and vegetables in specialised stores,22,19,0,0,1.894736842105263,0.0,,-1.3877787807814457e-17,0.16817922405260854
+47220,Retail sale of meat and meat products in specialised stores,19,17,0,0,0.6076470588235294,0.0,,0.0,0.18431813500884353
+47230,"Retail sale of fish, crustaceans and molluscs in specialised stores",3,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+47240,"Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores",32,25,0,0,0.8268000000000001,0.0,,0.0,0.13319225093904213
+47250,Retail sale of beverages in specialised stores,25,22,0,0,1.171818181818182,0.0,,0.0,0.1486548746086139
+47260,Retail sale of tobacco products in specialised stores,5,3,0,0,0.0,0.0,,0.0,0.561497031755032
+47290,Other retail sale of food in specialised stores,44,38,0,1,2.5584210526315787,0.0,,-6.938893903907228e-18,0.09180986822557935
+47300,Retail sale of automotive fuel in specialised stores,7,7,0,0,3.4914285714285715,0.0,,0.0,0.35433043506667483
+47410,"Retail sale of computers, peripheral units and software in specialised stores",16,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+47421,Retail sale of mobile telephones,29,22,0,1,1.818181818181818,0.0,,0.0,0.1486548746086139
+47429,Retail sale of telecommunications equipment other than mobile telephones,8,8,0,0,0.61125,0.0,,0.0,0.3244075648838681
+47430,Retail sale of audio and video equipment in specialised stores,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+47510,Retail sale of textiles in specialised stores,30,24,0,0,0.0,0.0,,0.0,0.13797620467497365
+47520,"Retail sale of hardware, paints and glass in specialised stores",19,17,0,0,0.3923529411764705,0.0,,0.0,0.18431813500884353
+47530,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores",46,39,0,0,0.0112820512820512,0.0,,0.0,0.08966685370756691
+47540,Retail sale of electrical household appliances in specialised stores,9,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+47591,Retail sale of musical instruments and scores,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+47599,"Retail of furniture, lighting, and similar (not musical instruments or scores) in specialised store",49,39,0,0,0.1366666666666666,0.0,,0.0,0.08966685370756691
+47610,Retail sale of books in specialised stores,13,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+47620,Retail sale of newspapers and stationery in specialised stores,10,7,0,0,4.507142857142857,0.0,,0.0,0.35433043506667483
+47630,Retail sale of music and video recordings in specialised stores,7,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+47640,"Retail sale of sports goods, fishing gear, camping goods, boats and bicycles",64,55,0,0,0.0403636363636363,0.0,,0.0,0.06528490111708299
+47650,Retail sale of games and toys in specialised stores,15,14,0,0,0.0,0.0,,0.0,0.2153108027376265
+47721,Retail sale of footwear in specialised stores,7,7,0,1,5.714285714285714,0.0,,0.0,0.35433043506667483
+47722,Retail sale of leather goods in specialised stores,5,3,0,0,0.0,0.0,,0.0,0.561497031755032
+47741,Retail sale of hearing aids,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+47749,Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c.,11,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+47750,Retail sale of cosmetic and toilet articles in specialised stores,30,25,0,0,0.7332,0.0,,0.0,0.13319225093904213
+47760,"Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores",36,29,0,0,0.5975862068965516,0.0,,0.0,0.11696979849973506
+47770,Retail sale of watches and jewellery in specialised stores,38,35,0,0,0.0,0.0,,0.0,0.09890099232439913
+47781,Retail sale in commercial art galleries,9,9,0,1,5.666666666666667,0.0,,0.0,0.2991450484195325
+47782,Retail sale by opticians,23,21,0,0,0.0,0.0,,0.0,0.15463901892483975
+47789,Other retail sale of new goods in specialised stores (not commercial art galleries and opticians),65,59,0,0,1.3937288135593222,0.0,,0.0,0.06112937052678522
+47791,Retail sale of antiques including antique books in stores,11,10,0,0,0.756,0.0,,2.7755575615628914e-17,0.27753279986287815
+47799,Retail sale of other second-hand goods in stores (not incl. antiques),10,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+47810,"Retail sale via stalls and markets of food, beverages and tobacco products",14,14,0,0,0.7621428571428571,0.0,,0.0,0.2153108027376265
+47820,"Retail sale via stalls and markets of textiles, clothing and footwear",16,15,0,0,0.2373333333333333,0.0,,-1.3877787807814457e-17,0.20388330103583963
+47890,Retail sale via stalls and markets of other goods,41,37,0,1,1.921891891891892,0.0,,0.0,0.09405782583719778
+49100,"Passenger rail transport, interurban",4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+49200,Freight rail transport,6,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+49319,"Other urban, suburban or metropolitan passenger land transport (not underground, metro or similar)",5,4,0,0,8.6675,0.0,,0.0,0.48989083645458353
+49390,Other passenger land transport,41,36,0,0,0.2222222222222222,0.0,,0.0,0.09641862859445885
+49420,Removal services,28,24,0,0,0.0925,0.0,,0.0,0.13797620467497365
+50100,Sea and coastal passenger water transport,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+50200,Sea and coastal freight water transport,10,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+50300,Inland passenger water transport,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+51101,Scheduled passenger air transport,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+51102,Non-scheduled passenger air transport,11,11,0,0,4.88909090909091,0.0,,0.0,0.25883296696802116
+51210,Freight air transport,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+52101,Operation of warehousing and storage facilities for water transport activities,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+52102,Operation of warehousing and storage facilities for air transport activities,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+52103,Operation of warehousing and storage facilities for land transport activities,26,23,0,0,0.0,0.0,,0.0,0.14311661845042006
+52212,Operation of rail passenger facilities at railway stations,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+52213,Operation of bus and coach passenger facilities at bus and coach stations,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+52219,"Other service activities incidental to land transportation, n.e.c.",23,17,0,0,0.0,0.0,,0.0,0.18431813500884353
+52220,Service activities incidental to water transportation,8,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+52230,Service activities incidental to air transportation,9,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+52241,Cargo handling for water transport activities,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+52242,Cargo handling for air transport activities,3,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+52243,Cargo handling for land transport activities,7,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+52290,Other transportation support activities,84,72,0,0,0.3272222222222222,0.0,,0.0,0.05065117259645515
+53100,Postal activities under universal service obligation,14,14,0,1,5.626428571428571,0.0,,0.0,0.2153108027376265
+53201,Licensed carriers,19,17,0,0,1.7517647058823531,0.0,,0.0,0.18431813500884353
+53202,Unlicensed carrier,54,43,0,3,2.813953488372093,0.0,,0.0,0.08200980322578702
+55100,Hotels and similar accommodation,74,66,0,0,0.3569696969696969,0.0,,0.0,0.055002557013538435
+55201,Holiday centres and villages,3,3,0,0,0.89,0.0,,0.0,0.561497031755032
+55300,"Recreational vehicle parks, trailer parks and camping grounds",19,19,0,0,0.0,0.0,,-1.3877787807814457e-17,0.16817922405260854
+55900,Other accommodation,64,62,0,1,0.6451612903225806,0.0,,-3.469446951953614e-18,0.05834407210136945
+56210,Event catering activities,115,89,0,1,1.3820224719101124,0.0,,3.469446951953614e-18,0.041376545236250326
+56290,Other food services,110,93,0,0,0.3870967741935484,0.0,,0.0,0.03966750261173304
+56301,Licensed clubs,8,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+58110,Book publishing,50,45,0,0,0.1159999999999999,0.0,,0.0,0.07865159873288437
+58120,Publishing of directories and mailing lists,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+58130,Publishing of newspapers,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+58141,Publishing of learned journals,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+58142,Publishing of  consumer and business journals and periodicals,15,15,0,1,2.6666666666666665,0.0,,-1.3877787807814457e-17,0.20388330103583963
+58190,Other publishing activities,80,68,0,0,0.8692647058823529,0.0,,-3.469446951953614e-18,0.05347133652006775
+58210,Publishing of computer games,17,16,0,0,0.0,0.0,,0.0,0.1936076805344279
+58290,Other software publishing,50,45,0,1,1.3235555555555556,0.0,,0.0,0.07865159873288437
+59113,Television programme production activities,89,86,0,0,0.397906976744186,0.0,,0.0,0.042758197285739964
+59120,"Motion picture, video and television programme post-production activities",22,18,0,0,0.0,0.0,,0.0,0.17587922364664965
+59131,Motion picture distribution activities,6,6,0,0,0.5183333333333333,0.0,,0.0,0.39033428790215224
+59132,Video distribution activities,5,3,0,0,0.0,0.0,,0.0,0.561497031755032
+59140,Motion picture projection activities,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+60100,Radio broadcasting,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+60200,Television programming and broadcasting activities,16,15,0,0,0.0,0.0,,-1.3877787807814457e-17,0.20388330103583963
+61100,Wired telecommunications activities,25,22,0,0,0.8486363636363637,0.0,,0.0,0.1486548746086139
+61200,Wireless telecommunications activities,10,10,0,1,6.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+61300,Satellite telecommunications activities,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+61900,Other telecommunications activities,55,46,0,0,1.5267391304347826,0.0,,0.0,0.07707356308557646
+62011,Ready-made interactive leisure and entertainment software development,40,30,0,0,0.741,0.0,,-1.3877787807814457e-17,0.11351339317396321
+62030,Computer facilities management activities,26,24,0,0,1.7220833333333332,0.0,,0.0,0.13797620467497365
+63110,"Data processing, hosting and related activities",33,32,0,0,0.3471875,0.0,,0.0,0.10717919825506533
+63120,Web portals,42,38,0,0,0.2339473684210526,0.0,,-6.938893903907228e-18,0.09180986822557935
+63910,News agency activities,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+64191,Banks,3,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+64201,Activities of agricultural holding companies,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+64202,Activities of production holding companies,11,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+64203,Activities of construction holding companies,19,17,0,0,0.0,0.0,,0.0,0.18431813500884353
+64204,Activities of distribution holding companies,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+64205,Activities of financial services holding companies,25,23,0,0,0.0,0.0,,0.0,0.14311661845042006
+64301,Activities of investment trusts,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+64302,Activities of unit trusts,1,1,0,1,40.0,0.0,,0.0,0.7934506856227534
+64303,Activities of venture and development capital companies,20,19,0,0,0.0,0.0,,-1.3877787807814457e-17,0.16817922405260854
+64304,Activities of open-ended investment companies,25,21,0,0,0.0,0.0,,0.0,0.15463901892483975
+64305,Activities of property unit trusts,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+64306,Activities of real estate investment trusts,11,11,0,0,0.0,0.0,,0.0,0.25883296696802116
+64910,Financial leasing,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+64921,Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+64922,Activities of mortgage finance companies,30,30,0,0,0.2813333333333333,0.0,,-1.3877787807814457e-17,0.11351339317396321
+64929,Other credit granting n.e.c.,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+64991,Security dealing on own account,29,27,0,0,0.0,0.0,,0.0,0.12455502974186107
+64992,Factoring,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+65110,Life insurance,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+65120,Non-life insurance,8,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+65300,Pension funding,4,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+66110,Administration of financial markets,11,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+66120,Security and commodity contracts dealing activities,7,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+66190,Activities auxiliary to financial intermediation n.e.c.,36,35,0,0,0.0,0.0,,0.0,0.09890099232439913
+66210,Risk and damage evaluation,8,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+66220,Activities of insurance agents and brokers,21,20,0,0,0.0,0.0,,1.3877787807814457e-17,0.1611251580528119
+66290,Other activities auxiliary to insurance and pension funding,14,13,0,0,1.2046153846153846,0.0,,0.0,0.22809537235418867
+66300,Fund management activities,19,17,0,0,0.078235294117647,0.0,,0.0,0.18431813500884353
+68201,Renting and operating of Housing Association real estate,29,29,0,0,0.4137931034482758,0.0,,0.0,0.11696979849973506
+68202,Letting and operating of conference and exhibition centres,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+69101,Barristers at law,5,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+69102,Solicitors,58,51,0,1,1.1764705882352942,0.0,,6.938893903907228e-18,0.07004661989852784
+69109,Activities of patent and copyright agents; other legal activities n.e.c.,52,46,0,0,0.8406521739130435,0.0,,0.0,0.07707356308557646
+69203,Tax consultancy,22,21,0,0,0.0,0.0,,0.0,0.15463901892483975
+70100,Activities of head offices,81,76,0,1,0.5263157894736842,0.0,,-3.469446951953614e-18,0.0481135850651348
+70210,Public relations and communications activities,87,74,0,1,1.0151351351351352,0.0,,0.0,0.049349779396383485
+71112,Urban planning and landscape architectural activities,22,21,0,0,0.0,0.0,,0.0,0.15463901892483975
+71121,Engineering design activities for industrial process and production,76,70,0,0,0.7252857142857142,0.0,,0.0,0.0520230624102642
+71200,Technical testing and analysis,25,24,0,0,0.0,0.0,,0.0,0.13797620467497365
+72110,Research and experimental development on biotechnology,14,13,0,0,0.0,0.0,,0.0,0.22809537235418867
+72190,Other research and experimental development on natural sciences and engineering,30,29,0,0,1.2872413793103448,0.0,,0.0,0.11696979849973506
+72200,Research and experimental development on social sciences and humanities,10,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+73120,Media representation services,55,51,0,0,1.472549019607843,0.0,,6.938893903907228e-18,0.07004661989852784
+73200,Market research and public opinion polling,19,15,0,0,0.0,0.0,,-1.3877787807814457e-17,0.20388330103583963
+74201,Portrait photographic activities,22,22,0,0,0.8081818181818182,0.0,,0.0,0.1486548746086139
+74202,Other specialist photography,37,33,0,0,0.229090909090909,0.0,,0.0,0.10426999754244692
+74203,Film processing,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+74209,Photographic activities not elsewhere classified,32,31,0,0,0.0287096774193548,0.0,,0.0,0.11025539546043056
+74300,Translation and interpretation activities,13,12,0,0,0.0,0.0,,0.0,0.24249400665523077
+74901,Environmental consulting activities,44,42,0,0,0.0211904761904761,0.0,,0.0,0.08379879086569969
+74902,Quantity surveying activities,45,39,0,0,0.0,0.0,,0.0,0.08966685370756691
+75000,Veterinary activities,31,30,0,0,0.0,0.0,,-1.3877787807814457e-17,0.11351339317396321
+77110,Renting and leasing of cars and light motor vehicles,32,25,0,1,3.0756,0.0,,0.0,0.13319225093904213
+77120,Renting and leasing of trucks and other heavy vehicles,2,2,0,0,10.22,0.0,,0.0,0.6576197724933345
+77210,Renting and leasing of recreational and sports goods,4,4,0,0,2.445,0.0,,0.0,0.48989083645458353
+77291,Renting and leasing of media entertainment equipment,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+77299,Renting and leasing of other personal and household goods,5,4,0,0,0.7775,0.0,,0.0,0.48989083645458353
+77310,Renting and leasing of agricultural machinery and equipment,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+77341,Renting and leasing of passenger water transport equipment,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+77390,"Renting and leasing of other machinery, equipment and tangible goods n.e.c.",23,20,0,0,1.0,0.0,,1.3877787807814457e-17,0.1611251580528119
+77400,"Leasing of intellectual property and similar products, except copyright works",7,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+78101,"Motion picture, television and other theatrical casting activities",9,9,0,0,3.2588888888888885,0.0,,0.0,0.2991450484195325
+78200,Temporary employment agency activities,85,63,0,1,1.03,0.0,,0.0,0.057471199588848734
+78300,Human resources provision and management of human resources functions,64,59,0,0,0.6027118644067797,0.0,,0.0,0.06112937052678522
+79110,Travel agency activities,59,51,0,0,0.3398039215686274,0.0,,6.938893903907228e-18,0.07004661989852784
+79120,Tour operator activities,26,25,0,1,1.6976,0.0,,0.0,0.13319225093904213
+79901,Activities of tourist guides,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+79909,Other reservation service activities n.e.c.,17,15,0,0,0.0,0.0,,-1.3877787807814457e-17,0.20388330103583963
+80200,Security systems service activities,42,39,0,0,0.5728205128205128,0.0,,0.0,0.08966685370756691
+80300,Investigation activities,10,8,0,0,1.38875,0.0,,0.0,0.3244075648838681
+81100,Combined facilities support activities,38,33,0,0,0.9024242424242424,0.0,,0.0,0.10426999754244692
+81210,General cleaning of buildings,91,82,0,0,0.7154878048780487,0.0,,0.0,0.04475062369009796
+81221,Window cleaning services,18,17,0,1,5.385882352941176,0.0,,0.0,0.18431813500884353
+81222,Specialised cleaning services,40,35,0,0,1.1808571428571428,0.0,,0.0,0.09890099232439913
+81223,Furnace and chimney cleaning services,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+81229,Other building and industrial cleaning activities,13,11,0,0,0.9290909090909092,0.0,,0.0,0.25883296696802116
+81291,Disinfecting and exterminating services,9,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+81299,Other cleaning services,64,56,0,0,1.9998214285714289,0.0,,0.0,0.0641939367187601
+82190,"Photocopying, document preparation and other specialised office support activities",5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+82200,Activities of call centres,6,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+82301,Activities of exhibition and fair organisers,20,19,0,0,0.2105263157894736,0.0,,-1.3877787807814457e-17,0.16817922405260854
+82302,Activities of conference organisers,18,18,0,0,0.0,0.0,,0.0,0.17587922364664965
+82911,Activities of collection agencies,7,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+82920,Packaging activities,12,6,0,0,0.445,0.0,,0.0,0.39033428790215224
+84110,General public administration activities,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+84120,"Regulation of health care, education, cultural and other social services, not incl. social security",34,32,0,0,1.333125,0.0,,0.0,0.10717919825506533
+84130,Regulation of and contribution to more efficient operation of businesses,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+84230,Justice and judicial activities,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+84240,Public order and safety activities,5,4,0,0,6.2225,0.0,,0.0,0.48989083645458353
+84250,Fire service activities,8,8,0,0,0.0,0.0,,0.0,0.3244075648838681
+85100,Pre-primary education,39,37,0,1,1.825945945945946,0.0,,0.0,0.09405782583719778
+85200,Primary education,27,23,0,1,1.7391304347826086,0.0,,0.0,0.14311661845042006
+85310,General secondary education,10,9,0,0,0.0,0.0,,0.0,0.2991450484195325
+85320,Technical and vocational secondary education,22,22,0,0,0.889090909090909,0.0,,0.0,0.1486548746086139
+85410,Post-secondary non-tertiary education,8,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+85421,First-degree level higher education,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+85422,Post-graduate level higher education,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+85510,Sports and recreation education,68,65,0,0,0.6118461538461538,0.0,,0.0,0.05580153132285397
+85530,Driving school activities,22,19,0,0,0.0,0.0,,-1.3877787807814457e-17,0.16817922405260854
+86102,Medical nursing home activities,37,27,0,1,2.3703703703703702,0.0,,0.0,0.12455502974186107
+87100,Residential nursing care facilities,29,28,0,0,1.1110714285714285,0.0,,0.0,0.1206433047658398
+87200,"Residential care activities for learning difficulties, mental health and substance abuse",50,41,0,1,1.3334146341463415,0.0,,0.0,0.08566757018442756
+87300,Residential care activities for the elderly and disabled,43,37,0,2,2.1621621621621623,0.0,,0.0,0.09405782583719778
+87900,Other residential care activities n.e.c.,38,34,0,0,2.385588235294118,0.0,,-6.938893903907228e-18,0.10151455415331875
+88100,Social work activities without accommodation for the elderly and disabled,26,23,0,0,0.0,0.0,,0.0,0.14311661845042006
+88910,Child day-care activities,30,27,0,0,0.987777777777778,0.0,,0.0,0.12455502974186107
+88990,Other social work activities without accommodation n.e.c.,33,31,0,0,1.835161290322581,0.0,,0.0,0.11025539546043056
+90020,Support activities to performing arts,57,51,0,1,2.2309803921568627,0.0,,6.938893903907228e-18,0.07004661989852784
+90040,Operation of arts facilities,9,7,0,0,0.0,0.0,,0.0,0.35433043506667483
+91011,Library activities,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+91012,Archives activities,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+91020,Museums activities,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+91030,Operation of historical sites and buildings and similar visitor attractions,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+91040,Botanical and zoological gardens and nature reserves activities,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+92000,Gambling and betting activities,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+93110,Operation of sports facilities,23,22,0,0,0.0,0.0,,0.0,0.1486548746086139
+93120,Activities of sport clubs,34,28,0,0,0.0,0.0,,0.0,0.1206433047658398
+93130,Fitness facilities,79,69,0,2,2.462028985507246,0.0,,-3.469446951953614e-18,0.05273725818904898
+93191,Activities of racehorse owners,3,3,0,0,0.0,0.0,,0.0,0.561497031755032
+93210,Activities of amusement parks and theme parks,6,6,0,0,0.0,0.0,,0.0,0.39033428790215224
+93290,Other amusement and recreation activities n.e.c.,97,85,0,0,0.0627058823529411,0.0,,0.0,0.043239483814049205
+94110,Activities of business and employers membership organizations,6,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+94120,Activities of professional membership organizations,10,10,0,0,0.0,0.0,,2.7755575615628914e-17,0.27753279986287815
+94200,Activities of trade unions,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+94910,Activities of religious organizations,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+94920,Activities of political organizations,1,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+94990,Activities of other membership organizations n.e.c.,11,11,0,0,0.0,0.0,,0.0,0.25883296696802116
+95110,Repair of computers and peripheral equipment,15,14,0,0,1.3728571428571428,0.0,,0.0,0.2153108027376265
+95120,Repair of communication equipment,7,6,0,0,2.888333333333333,0.0,,0.0,0.39033428790215224
+95210,Repair of consumer electronics,4,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+95220,Repair of household appliances and home and garden equipment,4,3,0,0,0.0,0.0,,0.0,0.561497031755032
+95230,Repair of footwear and leather goods,2,1,0,0,0.0,0.0,,0.0,0.7934506856227534
+95240,Repair of furniture and home furnishings,7,7,0,1,6.285714285714286,0.0,,0.0,0.35433043506667483
+95250,"Repair of watches, clocks and jewellery",4,3,0,0,0.0,0.0,,0.0,0.561497031755032
+95290,Repair of personal and household goods n.e.c.,5,4,0,0,0.0,0.0,,0.0,0.48989083645458353
+96010,Washing and (dry-)cleaning of textile and fur products,38,33,0,0,0.0,0.0,,0.0,0.10426999754244692
+96040,Physical well-being activities,71,69,0,0,0.5024637681159421,0.0,,-3.469446951953614e-18,0.05273725818904898
+97000,Activities of households as employers of domestic personnel,7,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+98100,Undifferentiated goods-producing activities of private households for own use,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+98200,Undifferentiated service-producing activities of private households for own use,5,5,0,0,0.0,0.0,,5.551115123125783e-17,0.4344824647831612
+99000,Activities of extraterritorial organizations and bodies,2,2,0,0,0.0,0.0,,0.0,0.6576197724933345
+41100,Development of building projects,625,570,0,4,0.6670175438596491,0.0,26.0,0.0,0.006694285959380707
+43210,Electrical installation,353,318,0,6,1.4510377358490567,0.0,26.0,0.0,0.011935873130733254
+43220,"Plumbing, heat and air-conditioning installation",306,285,0,2,0.8768421052631579,0.0,26.0,0.0,0.013299540988257513
+43290,Other construction installation,198,172,0,1,0.2325581395348837,0.0,26.0,0.0,0.021846149630793617
+43320,Joinery installation,133,122,0,0,0.3022950819672131,0.0,26.0,0.0,0.030526178389011234
+43999,Other specialised construction activities n.e.c.,328,285,0,1,0.9309824561403508,0.0,26.0,0.0,0.013299540988257513
+45112,Sale of used cars and light motor vehicles,183,150,0,2,1.3296,0.0,26.0,0.0,0.024970244368075257
+45200,Maintenance and repair of motor vehicles,325,282,0,3,1.6421985815602838,0.0,26.0,-8.673617379884035e-19,0.013439124039398464
+46900,Non-specialised wholesale trade,129,112,0,0,1.838303571428572,0.0,26.0,0.0,0.03316134706694211
+47110,"Retail sale in non-specialised stores with food, beverages or tobacco predominating",219,191,0,2,1.2180628272251308,0.0,26.0,0.0,0.019715818409207664
+47710,Retail sale of clothing in specialised stores,128,115,0,0,1.215304347826087,0.0,26.0,0.0,0.03232423144931135
+49320,Taxi operation,127,113,0,1,2.002920353982301,0.0,26.0,0.0,0.032877532165950234
+56101,Licensed restaurants,266,189,0,1,0.6119576719576719,0.0,26.0,0.0,0.019920295377280586
+56102,Unlicensed restaurants and cafes,238,189,0,4,1.8236507936507935,0.0,26.0,0.0,0.019920295377280586
+59111,Motion picture production activities,132,124,0,0,0.6783064516129033,0.0,26.0,-1.734723475976807e-18,0.030048615340676092
+59112,Video production activities,123,117,0,1,0.717948717948718,0.0,26.0,0.0,0.03178924566273168
+62012,Business and domestic software development,457,416,0,2,0.4788701923076923,0.0,26.0,0.0,0.009149784376903392
+62090,Other information technology service activities,328,296,0,1,0.4639527027027027,0.0,26.0,0.0,0.01281163330715756
+63990,Other information service activities n.e.c.,125,113,0,1,1.1446017699115043,0.0,26.0,0.0,0.032877532165950234
+64209,Activities of other holding companies n.e.c.,371,358,0,1,0.7702513966480447,0.0,26.0,0.0,0.010616414252844092
+64999,Financial intermediation not elsewhere classified,159,145,0,0,0.4198620689655172,0.0,26.0,0.0,0.025809064565281075
+68310,Real estate agencies,159,145,0,0,0.0643448275862069,0.0,26.0,0.0,0.025809064565281075
+69202,Bookkeeping activities,116,113,0,1,1.4090265486725664,0.0,26.0,0.0,0.032877532165950234
+70221,Financial management,115,107,0,1,0.8566355140186915,0.0,26.0,0.0,0.03465723801874683
+71111,Architectural activities,126,116,0,1,0.4942241379310345,0.0,26.0,0.0,0.032054506499637
+71122,Engineering related scientific and technical consulting activities,175,161,0,1,0.662608695652174,0.0,26.0,0.0,0.02330396035182178
+74100,specialised design activities,231,212,0,1,0.3542924528301887,0.0,26.0,0.0,0.017797594779440085
+78109,Other activities of employment placement agencies,135,113,0,0,0.5309734513274337,0.0,26.0,0.0,0.032877532165950234
+81300,Landscape service activities,116,106,0,0,0.3154716981132075,0.0,26.0,0.0,0.034972758573470354
+85600,Educational support services,125,111,0,2,1.4784684684684686,0.0,26.0,0.0,0.033450104693390575
+86210,General medical practice activities,157,146,0,0,0.4201369863013698,0.0,26.0,0.0,0.025636822084672516
+86220,Specialists medical practice activities,213,204,0,3,1.0795098039215687,0.0,26.0,1.734723475976807e-18,0.018482639808682075
+86230,Dental practice activities,114,111,0,0,0.1601801801801801,0.0,26.0,0.0,0.033450104693390575
+86900,Other human health activities,523,483,0,3,0.6432091097308489,0.0,26.0,0.0,0.007890574541451987
+90010,Performing arts,114,106,0,1,0.8731132075471698,0.0,26.0,0.0,0.034972758573470354
+90030,Artistic creation,147,135,0,2,0.8428148148148148,0.0,26.0,-1.734723475976807e-18,0.027667952017523423
+93199,Other sports activities,117,108,0,0,0.3251851851851852,0.0,26.0,0.0,0.03434735974655521
+98000,Residents property management,585,572,0,3,0.6861538461538462,0.0,26.0,0.0,0.00667103551133867
+99999,Dormant Company,197,171,0,4,1.013625730994152,0.0,26.0,-1.734723475976807e-18,0.02197109796843702
+10120,Processing and preserving of poultry meat,1,0,0,0,,,,,
+13950,"Manufacture of non-wovens and articles made from non-wovens, except apparel",1,0,0,0,,,,,
+14110,Manufacture of leather clothes,1,0,0,0,,,,,
+20530,Manufacture of essential oils,1,0,0,0,,,,,
+22220,Manufacture of plastic packing goods,1,0,0,0,,,,,
+29202,Manufacture of trailers and semi-trailers,1,0,0,0,,,,,
+29203,Manufacture of caravans,1,0,0,0,,,,,
+46230,Wholesale of live animals,1,0,0,0,,,,,
+84210,Foreign affairs,1,0,0,0,,,,,
+84220,Defence activities,1,0,0,0,,,,,
