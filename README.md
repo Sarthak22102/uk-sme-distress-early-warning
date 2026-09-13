@@ -1,12 +1,12 @@
 # UK SME Distress Early-Warning Platform
 ### Business Failure & Financial Risk Intelligence
 
-**A reproducible registry-filing review platform for prioritising manual investigation—not a validated insolvency predictor.**
+**A reproducible registry-filing review platform for prioritising manual investigation, not a validated insolvency predictor.**
 
 Built by **Sarthak Manjarekar** · Python · SQL / SQLite · Power BI build pack
 
 ## The question
-Can public company characteristics and filing signals reveal patterns worth investigating? This release answers the filing-priority question using a transparent index; historical failure prediction remains unsupported by the acquired data.
+Can public company characteristics and filing signals reveal patterns worth investigating? This release answers the filing priority question using a transparent index; historical failure prediction remains unsupported by the acquired data.
 
 ## Evidence in 60 seconds
 
